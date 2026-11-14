@@ -2,10 +2,10 @@
   <img src="assets/plvs-collage.png" alt="PLVS workspace with the Dock, Themes, Loudness Profiles and Presets" width="100%"/>
 </p>
 
-## PLVS — Real-time audio metering
+## PLVS
 
-A desktop companion that keeps your audio's level, shape, and movement in view.
+**Real-time audio metering for listening closely. Free & open source.**
 
 [Website](https://plvs.soundoer.com) ·
-[User Guide](https://plvs.soundoer.com/docs/) ·
+[GitHub](https://github.com/SounDoer/PLVS) ·
 [Contribute](https://github.com/SounDoer/PLVS/blob/main/CONTRIBUTING.md)
